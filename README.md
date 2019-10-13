@@ -1,8 +1,4 @@
-                                          Komal Armarkar
-                                     komal.armarkar@gmail.com
-                                          +919890247409
-                            Website : https://about.me/komal_armarkar
-
+                                          
 
 **PROFESSIONAL SYNOPSIS :**
 
