@@ -52,6 +52,7 @@ Security Research Professional whose qualification includes a degree in computer
 - Hall of Fame by MoneyTree KK
 - Hall of Fame by Caviar
 - Hall of Fame by Pantheon, Optimizely, Mailgun
+- Presented a talk on "Command Injection" at InfosecGirls, a Infosec Chapter lead by Vandana Verma, OWASPWIA Lead India.
 
 ***
 
