@@ -10,7 +10,7 @@ Security Research Professional whose qualification includes a degree in computer
 
 - Web Application Security Manual as well as automated testing
 - Knowledge of Vulnerability Assessment .
-- Hands on experience in bash scripting.
+- [Hands on experience in bash scripting.](https://github.com/komal-armarkar/vulnerability-recon-bash)
 - Proficient in Linux Operating System Configuration, utilities and monitoring.
 - Aware of security and privacy standard ISO/IEC 27701, NIST
 - Manually/Automated checking for different types of vulnerabilities like sql Injection, Cross Site Scripting, Server-Side Request Forgery, File Inclusion, Cross Site Request Forgery attack, Host Header Attack, URL Redirection, Directory Traversal, Hostile Subdomain Takeover, HTML Injection, File uploading, Source Code Disclosure, etc.
@@ -42,17 +42,17 @@ Security Research Professional whose qualification includes a degree in computer
 
 **ACHIEVEMENTS :**
 
-- Appreciated and acknowledged by NCIIPC ( a unit of NTRO, India )
+- Appreciated and acknowledged by [NCIIPC ( a unit of NTRO, India )](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/nciipc_july2019_newsletter.png)
 - Achievement Badge by Bugcrowd
-- Hall of Fame by Bugcrowd
-- Hall of Fame by Indeed
-- Hall of Fame by Caffeine TV
-- Hall of Fame by Underarmour
-- Hall of Fame by iRobot
-- Hall of Fame by MoneyTree KK
+- [Hall of Fame by Bugcrowd](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/bugcrowd_ack.png)
+- [Hall of Fame by Indeed](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/indeed_hall_of_fame.png)
+- [Hall of Fame by Caffeine TV](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/caffeine_hall_of_fame.png)
+- [Hall of Fame by Underarmour](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/Underarmour_ack.png)
+- [Hall of Fame by iRobot](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/irobot_hall_of_fame.png)
+- [Hall of Fame by MoneyTree KK](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/Moneytree_ack.png)
 - Hall of Fame by Caviar
-- Hall of Fame by Pantheon, Optimizely, Mailgun
-- Presented a talk on "Command Injection" at [InfosecGirls](https://www.infosecgirls.in/), a Infosec Chapter lead by Vandana Verma, OWASPWIA Lead India.
+- [Hall of Fame by Pantheon](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/Pantheon_ack.png), [Optimizely](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/optimizely_hall_of_fame.png), [Mailgun](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/mailgun_ack.png)
+- Presented a talk on ["Command Injection"](https://www.slideshare.net/KomalArmarkar/) at [InfosecGirls](https://www.infosecgirls.in/), a Infosec Chapter lead by Vandana Verma, OWASPWIA Lead India.
 
 ***
 
