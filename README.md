@@ -60,7 +60,7 @@ Security Research Professional whose qualification includes a degree in computer
 
 **WORK EXPERIENCE :**
 
-***Freelance***
+***Freelance Work***
 
 - Conducted Web Application Pentesting for 3 clients based in India(Government Website) and the Middle East ( E-commerce and Workforce management)
 - Conducted testing on "Order management flaws" like Price manipulation during order placement, Shipping address manipulation after order placement, "Content management system flaws" like Unusual activities involving role-based access control, Flaws in third-party application program interfaces (APIs) and also flaws like "Use of multiple coupons for the same transaction", "Predictable coupon codes" etc on the E-Commerce Websites.
