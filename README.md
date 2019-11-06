@@ -13,7 +13,7 @@ Security Research Professional whose qualification includes a degree in computer
 - [Hands on experience in bash scripting.](https://github.com/komal-armarkar/vulnerability-recon-bash)
 - Proficient in Linux Operating System Configuration, utilities and monitoring.
 - Knowledge of security and privacy standard ISO/IEC 27701, NIST
-- Manually/Automated checking for different types of vulnerabilities like sql Injection, Cross Site Scripting, Server-Side Request Forgery, File Inclusion, Cross Site Request Forgery attack, Host Header Attack, URL Redirection, Directory Traversal, Hostile Subdomain Takeover, HTML Injection, File uploading, Source Code Disclosure, etc.
+- Manually/Automated checking for Owasp top 10 vulnerabilities .
 - Understanding and Implementation Server Security and imply security hardening in accordance.
 - Able to clearly understand the problems and find positive solutions through the use of troubleshooting, problem solving, teaming and communication skills.
 
