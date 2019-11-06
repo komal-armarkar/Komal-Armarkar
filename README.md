@@ -44,7 +44,7 @@ Security Research Professional whose qualification includes a degree in computer
 **Accomplishments :**
 
 - Appreciated and acknowledged by [NCIIPC ( a unit of NTRO, India )](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/nciipc_july2019_newsletter.png)
-- Achievement Badge by Bugcrowd
+- [Achievement Badge](https://bugcrowd.com/Infosec_Komal) by Bugcrowd
 - [Hall of Fame by Bugcrowd](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/bugcrowd_ack.png)
 - [Hall of Fame by Indeed](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/indeed_hall_of_fame.png)
 - [Hall of Fame by Caffeine TV](https://github.com/komal-armarkar/komal-armarkar.github.io/blob/master/caffeine_hall_of_fame.png)
