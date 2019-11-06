@@ -100,3 +100,5 @@ Period: 2nd September 2013 – July 2016.***
 **EDUCATION :**
 Bachelor's Degree : Computer Technology, RashtraSant Tukadoji Maharaj Nagpur University, Nagpur, Maharashtra
 
+***
+[Download Resume in PDF](https://github.com/komal-armarkar/Komal-Armarkar/blob/master/Komal_Armarkar_Resume.pdf)
